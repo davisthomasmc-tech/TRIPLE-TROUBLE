@@ -2,46 +2,44 @@
 
 
 
-# [USELESS WATCH] 🎯
+# USELESS WATCH 🎯
 
 
 ## Basic Details
-### Team Name: [TRIPLE TROUBLE]
+### Team Name: TRIPLE TROUBLE
 
 
 ### Team Members
-- Team Lead: [DAVIS THOMAS] - [Saintgits College of Engineering]
-- Member 2: [NIRANJ T SUNIL] - [Saintgits College of Engineering]
-- Member 3: [Name] - [College]
+- Team Lead: DAVIS THOMAS - Saintgits College of Engineering
+- Member 2: NIRANJ T SUNIL - Saintgits College of Engineering
 
 ### Project Description
-[Our project is a smart watch designed to provide continuous real-time monitoring for patients who require care and supervision. It monitors important vital signs to keep track of the user's health. The gyroscope also detects sudden movements, changes in orientation, and possible falls. If any critical condition is detected, the watch immediately take action and send an emergency SOS alert. But there’s a TWIST,
-The SOS message is sent to the patient’s own phone.]
+Our project is a smart watch designed to provide continuous real-time monitoring for patients who require care and supervision. It monitors important vital signs to keep track of the user's health. The gyroscope also detects sudden movements, changes in orientation, and possible falls. If any critical condition is detected, the watch immediately take action and send an emergency SOS alert. But there’s a TWIST,
+The SOS message is sent to the patient’s own phone.
 
 ### The Problem (that doesn't exist)
-[Patients or normal people with health issues are susseptible to faint or have other sudden fluctuations in their vitals.when people like these are alone ,the chances of unfortunate events happening are high. ]
+Patients or normal people with health issues are susseptible to faint or have other sudden fluctuations in their vitals.when people like these are alone ,the chances of unfortunate events happening are high. 
 
 ### The Solution (that nobody asked for)
-[we are solving these problems by sending an sos signal to the patient's own phone in case of a fall or serious vital drop, so that no one will know what happened to them as the sos message is given to their own phones]
-
+we are solving these problems by sending an sos signal to the patient's own phone in case of a fall or serious vital drop, so that no one will know what happened to them as the sos message is given to their own phones
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [c++]
-- [
+- c++
+- 
 -   MAX30105.h
     heartRate.h
     U8g2lib.h
-    WiFi.h>
+    WiFi.h
     ESP_Mail_Client.h
-    DHT.h"
+    DHT.h
     MPU6050_light.h
 
-- [gemini,chatGPT,Arduino IDE]
+- gemini,chatGPT,Arduino IDE
 
 For Hardware:
-- [ESP32,breadboard,jumperwire,buzzer,vibration motor,SH1106 OLED Display (128x64 I2C),Push Button,MPU6050 Accelerometer & Gyroscope,DHT11 Temperature Sensor,MAX30105 Pulse Oximeter & Heart Rate Sensor.]
-- [paper blade ,soldering iron, doubleside tape,insulation tape.]
+- ESP32,breadboard,jumperwire,buzzer,vibration motor,SH1106 OLED Display (128x64 I2C),Push Button,MPU6050 Accelerometer & Gyroscope,DHT11 Temperature Sensor,MAX30105 Pulse Oximeter & Heart Rate Sensor.
+  tools : paper blade ,soldering iron, doubleside tape,insulation tape.
 
 ### Implementation
 For Software: Arduino IDE,C++ 
