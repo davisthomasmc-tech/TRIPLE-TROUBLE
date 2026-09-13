@@ -2,53 +2,57 @@
 
 
 
-# [Project Name] 🎯
+# [USELESS WATCH] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [TRIPLE TROUBLE]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [DAVIS THOMAS] - [Saintgits College of Engineering]
+- Member 2: [NIRANJ T SUNIL] - [Saintgits College of Engineering]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Our project is a smart watch designed to provide continuous real-time monitoring for patients who require care and supervision. It monitors important vital signs to keep track of the user's health. The gyroscope also detects sudden movements, changes in orientation, and possible falls. If any critical condition is detected, the watch immediately take action and send an emergency SOS alert. But there’s a TWIST,
+The SOS message is sent to the patient’s own phone.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Patients or normal people with health issues are susseptible to faint or have other sudden fluctuations in their vitals.when people like these are alone ,the chances of unfortunate events happening are high. ]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[we are solving these problems by sending an sos signal to the patient's own phone in case of a fall or serious vital drop, so that no one will know what happened to them as the sos message is given to their own phones]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [c++]
+- [
+-   MAX30105.h
+    heartRate.h
+    U8g2lib.h
+    WiFi.h>
+    ESP_Mail_Client.h
+    DHT.h"
+    MPU6050_light.h
+
+- [gemini,chatGPT,Arduino IDE]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [ESP32,breadboard,jumperwire,buzzer,vibration motor,SH1106 OLED Display (128x64 I2C),Push Button,MPU6050 Accelerometer & Gyroscope,DHT11 Temperature Sensor,MAX30105 Pulse Oximeter & Heart Rate Sensor.]
+- [paper blade ,soldering iron, doubleside tape,insulation tape.]
 
 ### Implementation
-For Software:
+For Software: Arduino IDE,C++ 
 # Installation
-[commands]
+Download the arduino file
+run it on arduino ide 
 
-# Run
-[commands]
-
-### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -64,21 +68,23 @@ For Software:
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![Circuit]
+<img width="720" height="670" alt="image" src="https://github.com/user-attachments/assets/ee6cc8b7-0beb-43a1-bdb9-3d49bc989d3b" />
+
 
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![Components]
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/c908d020-b8b7-43c7-8aae-49928bbf6aaa" />
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+![Build]
+<img width="903" height="1600" alt="image" src="https://github.com/user-attachments/assets/c4270572-7dd9-472e-9b19-5dc4ad4cf6ce" />
+
+![Final]
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/71fcbca4-4f71-4d3c-824f-c7a05e6d0ed7" />
 
 ### Project Demo
 # Video
@@ -89,9 +95,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- DAVIS THOMAS : hardware part
+- NIRANJ T SUNIL: helping in software part
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
