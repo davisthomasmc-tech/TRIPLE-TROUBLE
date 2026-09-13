@@ -50,14 +50,15 @@ run it on arduino ide
 For Software:
 
 # Screenshots (Add at least 3)
-!(Add screenshot 1)
+!serial monitor
 <img width="1372" height="736" alt="image" src="https://github.com/user-attachments/assets/2af53d57-d7cd-48d5-969f-6e4d0223e4c7" />
 
-![Screenshot2]
+![screenshot]
 <img width="617" height="782" alt="image" src="https://github.com/user-attachments/assets/0705266d-fd9b-452a-bb1e-f59e85cdd2ef" />
 
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3]
+<img width="985" height="1599" alt="image" src="https://github.com/user-attachments/assets/37b8f0ed-2001-4ef7-8c7d-032bf836134a" />
 
 
 # Diagrams
