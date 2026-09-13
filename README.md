@@ -50,18 +50,20 @@ run it on arduino ide
 For Software:
 
 # Screenshots (Add at least 3)
-![](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+!(Add screenshot 1)
+<img width="1372" height="736" alt="image" src="https://github.com/user-attachments/assets/2af53d57-d7cd-48d5-969f-6e4d0223e4c7" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]
+<img width="617" height="782" alt="image" src="https://github.com/user-attachments/assets/0705266d-fd9b-452a-bb1e-f59e85cdd2ef" />
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Workflow] 
+<img width="1416" height="1430" alt="image" src="https://github.com/user-attachments/assets/41b85b15-fd6a-44ba-9c5f-c6b8ec5132c4" />
+
 
 For Hardware:
 
@@ -87,8 +89,9 @@ For Hardware:
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1F-sb22c9BFdBWsF85FkDqaMX-oIao8k2/view?usp=drivesdk
 
+This watch checks live readings of vitals like heart rate, blood oxygen level, temprature etc. it has a gyroscope to determine fall also.when a person has values of vitals which are different from the normal rate,the watch would observe their vitals for the next 30 seconds.if even after those 30 seconds the values are not normal ,a vibration for next 10 seconds will be there. if you do not switch off the alarm, there would be a buzzer for the next 10 seconds. if the buzzer is also not switched off then the third phase will be executed which is sos emergency message.this emergency message would be conveying all the vitals at that time along with an emergency message to the person's phone.also note that these emergency alarm system will go off if the person falls as the gyroscope will detect sudden movements . his w
 # Additional Demos
 [Add any extra demo materials/links]
 
