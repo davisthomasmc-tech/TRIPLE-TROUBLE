@@ -58,7 +58,7 @@ For Software:
 
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
 
 # Diagrams
 ![Workflow] 
@@ -91,7 +91,7 @@ For Hardware:
 [Add your demo video link here]
 https://drive.google.com/file/d/1F-sb22c9BFdBWsF85FkDqaMX-oIao8k2/view?usp=drivesdk
 
-This watch checks live readings of vitals like heart rate, blood oxygen level, temprature etc. it has a gyroscope to determine fall also.when a person has values of vitals which are different from the normal rate,the watch would observe their vitals for the next 30 seconds.if even after those 30 seconds the values are not normal ,a vibration for next 10 seconds will be there. if you do not switch off the alarm, there would be a buzzer for the next 10 seconds. if the buzzer is also not switched off then the third phase will be executed which is sos emergency message.this emergency message would be conveying all the vitals at that time along with an emergency message to the person's phone.also note that these emergency alarm system will go off if the person falls as the gyroscope will detect sudden movements . his w
+This watch checks live readings of vitals like heart rate, blood oxygen level, temprature etc. it has a gyroscope to determine fall .when a person has values of vitals which are different from the normal readings,the watch would observe their vitals for the next 30 seconds.if even after those 30 seconds the values are not normal ,a vibration for next 10 seconds will be there. if you do not switch off the alarm, there would be a buzzer for the next 10 seconds. if the buzzer is also not switched off then the third phase will be executed which is sos emergency message.this emergency message would be conveying all the vitals at that time along with an emergency message to the person's phone.also note that these emergency alarm system will go off if the person falls as the gyroscope will detect sudden movements . that is if a person faints and falls down the sos message will come to their phone.
 # Additional Demos
 [Add any extra demo materials/links]
 
